@@ -1,8 +1,22 @@
-Team TCC Notes
+SOS Notes
 ==============
 
-Here are some links to both Node/Express and Django. I'll leave it up to you to
-decide which you will be more comfortable with.
+
+Team Members
+------------
+* Nathaniel Berkhimer (nberkhimer5001@email.vccs.edu)
+* Jessica Cobb (jlc25918@email.vccs.edu)
+* Kurt Hansen (kmh27188@email.vccs.edu)
+* Benjamin Lange (benjamin.r.lange@gmail.com)
+* Janelli Quintero-Roper (jq293@email.vccs.edu)
+* Maksim Romanov
+
+Coaches
+-------
+* Austin Krill (austin.krill@forrent.com)
+* Jeff Self (jeff.self@homes.com)
+
+
 
 
 Node/Express Links
